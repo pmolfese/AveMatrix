@@ -1,0 +1,100 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = x86_64;
+		activeBuildConfigurationName = Release;
+		activeExecutable = C17FFA360E703A9B00257450 /* AveMatrix */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* AveMatrix */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* AveMatrix */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = C17FFA410E703AAD00257450 /* Code sense */;
+		executables = (
+			C17FFA360E703A9B00257450 /* AveMatrix */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 254767839;
+			PBXWorkspaceStateSaveDate = 254767839;
+		};
+		sourceControlManager = C17FFA400E703AAD00257450 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* AveMatrix.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 632}}";
+			sepNavSelRange = "{539, 0}";
+			sepNavVisRange = "{0, 778}";
+			sepNavWindowFrame = "{{253, 118}, {721, 760}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* AveMatrix */ = {
+		activeExec = 0;
+		executables = (
+			C17FFA360E703A9B00257450 /* AveMatrix */,
+		);
+	};
+	C17FFA360E703A9B00257450 /* AveMatrix */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+			YES,
+			YES,
+			YES,
+		);
+		argumentStrings = (
+			"/Users/pete/Desktop/test/a_ba+.txt",
+			"/Users/pete/Desktop/test/b_ba+.txt",
+			"/Users/pete/Desktop/test/c_ba+.txt",
+			/Users/pete/Desktop/test/average1.txt,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AveMatrix;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	C17FFA3D0E703AAD00257450 /* PMMatrix_lite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {660, 633}}";
+			sepNavSelRange = "{365, 0}";
+			sepNavVisRange = "{0, 585}";
+			sepNavWindowFrame = "{{713, 117}, {719, 761}}";
+		};
+	};
+	C17FFA3E0E703AAD00257450 /* PMMatrix_lite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {840, 1624}}";
+			sepNavSelRange = "{1538, 0}";
+			sepNavVisRange = "{1391, 1079}";
+			sepNavWindowFrame = "{{71, 0}, {899, 878}}";
+		};
+	};
+	C17FFA400E703AAD00257450 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C17FFA410E703AAD00257450 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
